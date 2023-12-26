@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on a live project as a React developer at TCS.
+- 🔭 I’m currently working as Software Engineer at TCS.
 - 👨‍💻 All of my projects are available at https://portfolio-iota-mauve-42.vercel.app/
 - 📄 Know about my experiences https://linkedin.com/in/ajay-yadav-patil
 - 📫 How to reach me **yadava701@gmail.com**
